@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-	title: 'Power of AI',
-	description: 'Unlock the True Power of AI in your day with Nexus',
+	title: 'AI Nexus Navibar',
+	description: 'Unlock the Power of AI with Nexus Navibar',
 };
 
 export default function RootLayout({ children }) {
